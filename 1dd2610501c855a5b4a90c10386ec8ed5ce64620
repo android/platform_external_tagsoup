@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ecbd865_e8fd27e5",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1014443
+      },
+      "writtenOn": "2013-10-21T12:56:49Z",
+      "side": 1,
+      "message": "BTW. android.text.HtmlTest is completely broken even before the update. I\u0027ve sent out https://android-review.googlesource.com/#/c/68363/1 to fix it",
+      "revId": "1dd2610501c855a5b4a90c10386ec8ed5ce64620",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    }
+  ]
+}
