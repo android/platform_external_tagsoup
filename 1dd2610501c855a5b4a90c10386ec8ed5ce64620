@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "9e1390a0_58224d6b",
+        "filename": "README.android",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1014443
+      },
+      "writtenOn": "2013-10-22T11:10:31Z",
+      "side": 1,
+      "message": "Deleted.",
+      "parentUuid": "def0a8a0_9a32eacf",
+      "revId": "1dd2610501c855a5b4a90c10386ec8ed5ce64620",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fe0bac5e_67396854",
         "filename": "src/org/ccil/cowan/tagsoup/Parser.java",
         "patchSetId": 1
@@ -47,6 +65,24 @@
       "writtenOn": "2013-10-21T20:55:09Z",
       "side": 1,
       "message": "the bug reporter was right :-)",
+      "revId": "1dd2610501c855a5b4a90c10386ec8ed5ce64620",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "de1988c0_ac47c7cc",
+        "filename": "src/org/ccil/cowan/tagsoup/Parser.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 837,
+      "author": {
+        "id": 1014443
+      },
+      "writtenOn": "2013-10-22T11:10:31Z",
+      "side": 1,
+      "message": "heh :)",
+      "parentUuid": "fe0bac5e_67396854",
       "revId": "1dd2610501c855a5b4a90c10386ec8ed5ce64620",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889",
       "unresolved": false
