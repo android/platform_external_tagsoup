@@ -16,5 +16,6 @@ java_library_static {
     name: "tagsoup",
     host_supported: true,
     no_framework_libs: true,
+    sdk_version: "current",
     srcs: ["src/**/*.java"],
 }
