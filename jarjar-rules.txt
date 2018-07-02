@@ -1,0 +1,1 @@
+rule org.ccil.cowan.tagsoup.** com.android.tagsoup.@1
