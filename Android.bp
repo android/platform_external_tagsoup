@@ -14,6 +14,13 @@
 
 java_library_static {
     name: "tagsoup",
+    sdk_version: "core_current",
+    jarjar_rules: "jarjar-rules.txt",
+    srcs: ["src/**/*.java"],
+}
+
+java_library_static {
+    name: "tagsoup-nojarjar",
     host_supported: true,
     sdk_version: "core_current",
     srcs: ["src/**/*.java"],
