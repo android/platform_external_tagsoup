@@ -12,6 +12,17 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+package {
+    default_applicable_licenses: ["external_tagsoup_license"],
+}
+
+license {
+    name: "external_tagsoup_license",
+    visibility: [":__subpackages__"],
+    license_kinds: ["SPDX-license-identifier-AFL-3.0","SPDX-license-identifier-Apache-2.0","legacy_unencumbered"],
+    license_text: ["LICENSE"],
+}
+
 java_library_static {
     name: "tagsoup",
     host_supported: true,
